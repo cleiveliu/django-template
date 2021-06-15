@@ -1,0 +1,11 @@
+*.pyc
+
+.vscode/
+
+static/
+media/
+
+.env
+db.sqlite3
+
+venv/
